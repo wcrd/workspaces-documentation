@@ -14,7 +14,7 @@ The `Pie Chart` & `Donut Chart` expect **Narrow** \([Wide vs. Narrow data](../qu
 
 ### Data example
 
-![ZAT Setpoint counts by VAV unit](../.gitbook/assets/image%20%285%29.png)
+![ZAT Setpoint counts by VAV unit](../.gitbook/assets/image%20%285%29%20%281%29.png)
 
 ![Rendered donut chart](../.gitbook/assets/image%20%2812%29.png)
 

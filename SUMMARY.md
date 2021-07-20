@@ -44,5 +44,6 @@
 * [Sensor](tiles/sensor.md)
 * [Status](tiles/status.md)
 * [Grid \[v2\]](tiles/grid-v2.md)
+* [Datetime Picker](tiles/datetime-picker.md)
 * [Template](tiles/template.md)
 
