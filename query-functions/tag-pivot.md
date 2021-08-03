@@ -8,7 +8,7 @@ The `Tag Pivot` source returns the most recent reading for each sensor it finds;
 
 This data source is useful for:
 
-* Grids
+* Grids \(Grid v1 only\)
 * Sensor Tiles
 * Status Tiles
 
