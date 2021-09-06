@@ -154,17 +154,17 @@ The dynamic text renderer is similar to the standard 'Text Box' renderer, with s
 
 The Dynamic Text renderer by default displays the cell value wrapped in a 'pill'. The user is able to configure both the _**color**_ and the _**icon**_ \(optional\) that is rendered. 
 
-![](../.gitbook/assets/image%20%2816%29.png)
+![](../.gitbook/assets/image%20%2817%29.png)
 
 The dynamic text renderer also supports the creation of basic hyperlinks.
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
 #### Bindings
 
 The Dynamic Text renderer, like the Text Box renderer, does not require any special data formats to work. It simply runs off the cell value.
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%2811%29.png)
 
 | Binding | Description |
 | :--- | :--- |
@@ -174,6 +174,12 @@ The Dynamic Text renderer, like the Text Box renderer, does not require any spec
 | **Date Time Format** | \(Conditional Field\) If datatype is datetime, this binding controls how the date is rendered in the grid.  |
 | **Label** | \(Conditional Field\) If datatype is URL, this binding control what text is shown in the Pill. This is a manually set static field and cannot be set from the data source currently. |
 | **Open in new tab** | \(Conditional Field\) If datatype is URL, this toggle switch controls whether the links open in the current window or in a new tab. |
+
+#### Note on using Icons
+
+Current icon support is still basic. We currently have access to the default set of icons from [Font Awesome](https://fontawesome.com/). To use an icon, find the icon\(s\) of interest from Font Awesome, copy the icon name, and reference in the _**icon**_ binding as `fas:icon-name`. E.g.: the icon pictured below would be referenced as `fas:address-book`.  
+
+![Icon from font-awesome](../.gitbook/assets/image%20%281%29.png)
 
 #### Note on URL column type
 
