@@ -3,6 +3,12 @@
 * [Introduction](README.md)
 * [Key Takeaways](key-takeaways.md)
 
+## Quick Start Guide
+
+* [Create a Workspace](quick-start-guide/create-a-workspace.md)
+* [Create a Tile](quick-start-guide/create-a-tile.md)
+* [Get some data](quick-start-guide/get-some-data.md)
+
 ## Library
 
 * [Workspaces](library/workspaces/README.md)

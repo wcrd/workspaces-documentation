@@ -59,13 +59,14 @@ Current icon support is still basic. We currently have access to the default set
 
 ### Note on URL column type
 
-1. **Additional bindings:** The URL column type takes the cell value and converts it into a hyperlink element. This hyperlink element has additional bindings _**label**_ and _**opens in new tab**_ that control the behavior of that hyperlink element. These options apply to the entire column; it is not possible to set unique behavior per cell. If a user needs a set of links that open in the current window, and a set of links that open in a new tab, then you can either: a\) create two columns in the grid, one for each style, or b\) create two separate grids, one for each style. Convention is to use two separate grids as this is generally clearer from a UX perspective.
+1. **Additional bindings:** The URL column type takes the cell value and converts it into a hyperlink element. This hyperlink element has additional bindings _**label**_ and _**opens in new tab**_ that control the behavior of that hyperlink element. These options apply to the entire column; it is not possible to set unique behavior per cell. If a user needs a set of links that open in the current window, and a set of links that open in a new tab, then you can either: a\) create two columns in the grid, one for each style, or b\) create two separate grids, one for each style. Convention is to use two separate grids as this is generally clearer from a UX perspective. 
 2. **URL value:**  
    The cell value can either be: 
 
    * _**an absolute link**_, i.e.: "https://www.google.com/"
    * _**a relative link to a Switch Asset**_, i.e.: "\#/workspaces/wid=876485762-24095y23489-452y343"
 
+  
    Any link that is not an absolute link will be rendered as a relative link to the Switch Platform.  
    An advantage of using relative links \(for intra-Switch linkages\) is that it is subdomain independent, e.g. if you built the workspace in a subdomain but are accessing it through the 'root' platform, it will work as expected. There is no requirement to use relative links for intra-Switch linking.
 
