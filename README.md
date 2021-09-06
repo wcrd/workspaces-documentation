@@ -1,6 +1,6 @@
 # Introduction
 
-#### Run Sheet:
+## Run Sheet:
 
 1. Document Library overview
 2. Parameters in ADX queries
@@ -21,7 +21,7 @@
    1. Grid Data Object
    2. Create linked chart from grid
 
-#### Topics:
+## Topics:
 
 * Document Library overview
 * Query functions
@@ -37,9 +37,4 @@
   * Progress bars
   * Pills
 * \(Optional\) Combobox tips
-
-  
-
-
-
 

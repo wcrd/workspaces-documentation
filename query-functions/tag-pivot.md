@@ -75,7 +75,7 @@ This data source is useful for:
 | ... |  |  |  |
 | rowFieldValue2 |  |  |  |
 
-#### e.g.:
+### e.g.:
 
 ![rowField=EquipmentLabel; columnField=PointName](../.gitbook/assets/image%20%287%29.png)
 

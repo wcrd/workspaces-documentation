@@ -86,9 +86,7 @@ This data source is useful for:
 * {columnField}
 * rValue
 
-#### e.g.:
+### e.g.:
 
 ![rowField=EquipmentType;rowValue=VAV;columnField=PointName;columnValue=Discharge Air Temperature;searchParams=&quot;Floor==&apos;07&apos;&quot;](../.gitbook/assets/image%20%289%29.png)
-
-
 

@@ -84,7 +84,7 @@ This data source is useful for:
 * label
 * value
 
-#### e.g.:
+### e.g.:
 
 ![count\(\) of ZAT SP by EquipmentLabel](../.gitbook/assets/image%20%2810%29.png)
 

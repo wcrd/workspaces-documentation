@@ -66,7 +66,6 @@ This data source is useful for:
         <p>For aggregations where multiple points exist per cell, format Status and
           Command points into a &apos;Progress Bar&apos; data format. If only one
           point exists per cell then &apos;Pill&apos; formatted data is returned.</p>
-        <p></p>
         <p>See <a href="../tiles/grid-v2.md">Grid [v2]</a> for renderer methods and
           data formats.</p>
       </td>
@@ -84,7 +83,7 @@ This data source is useful for:
 | ... |  |  |  |
 | rowFieldValue2 |  |  |  |
 
-#### e.g.:
+### e.g.:
 
 ![](https://gblobscdn.gitbook.com/assets%2F-Mc36HsWK3tOtEtvSWaE%2F-McCtC4M6NdwzevtovK8%2F-McCuoJcm8ZW-QXcS86x%2Fimage.png?alt=media&token=2e7faaa9-bf8d-4946-9002-1116fcccd25c)
 

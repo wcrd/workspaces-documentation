@@ -45,7 +45,7 @@ ObjectProperties
 
 ## Parameterizing keywords
 
-The fields we parameterized above were all 'strings'. There is one other field we could make use of in the basic query and that is the _**timeperiod**_ ****keyword that is used to fetch the timeseries data \(1d\).
+The fields we parameterized above were all 'strings'. There is one other field we could make use of in the basic query and that is the _**timeperiod**_ _\*\*_keyword that is used to fetch the timeseries data \(1d\).
 
 This value is not a string, but an ADX keyword --- it is a term that ADX can process directly. We can parameterize this in the same way as the values, but we will instead set the parameter type to 'keyword' in the configuration stage. We will use the parameter name: @timeperiod.
 

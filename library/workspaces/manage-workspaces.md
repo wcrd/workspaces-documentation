@@ -14,7 +14,3 @@
 
 ## Save to Favorites
 
-
-
-
-

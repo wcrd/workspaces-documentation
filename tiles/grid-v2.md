@@ -6,7 +6,7 @@ The `Grid` \(v2\) tile expects **Wide** \([Wide vs. Narrow data](../query-functi
 
 ### Special Grid bindings
 
-The `Grid` tile has a number of special feature compared to the other tiles: 
+The `Grid` tile has a number of special feature compared to the other tiles:
 
 1. **"Cell Renderer" bindings** These bindings allow a user to customize how the values \(and special value objects\) are displayed in the cells.
 2. **"Custom Columns" bindings** These bindings allow a user to create custom calculated columns to add to the grid. After creation these columns are treated the same as normal columns returned from the data query.
@@ -58,7 +58,7 @@ The text box is the default cell renderer. It simply displays the provided value
 | :--- | :--- |
 | **Column Type** | Data type of column |
 | **Cell Color** | Background color of the cell |
-| **Date Time Format** | \(Conditional Field\) If datatype is datetime, this binding controls how the date is rendered in the grid.  |
+| **Date Time Format** | \(Conditional Field\) If datatype is datetime, this binding controls how the date is rendered in the grid. |
 
 #### Pills
 
@@ -95,13 +95,13 @@ If our **Cell Value** binding was `Row['Zone Air Temperature']` the the value of
 
 An example formula for Cell Value using **Row** variable is provided below.
 
-####  _Cell Value:_
+#### _Cell Value:_
 
 ```javascript
-Row['Zone Air Temperature'] * 2 - 55 
+Row['Zone Air Temperature'] * 2 - 55
 ```
 
-Based on the figure presented above the example formula would resolve to:  10.88 \* 2 - 55 =  -33.24 for the current cell.
+Based on the figure presented above the example formula would resolve to: 10.88 \* 2 - 55 = -33.24 for the current cell.
 
 ### Conditional formatting
 
@@ -121,7 +121,7 @@ If we were to call `Cell` in our **Cell Color** binding, the value returned woul
 
 Two example formulas for cell coloring are provide below using both **Cell** and **Row** variables.
 
-####  _Cell Color:_
+#### _Cell Color:_
 
 ```javascript
 // BASIC FORMULA
@@ -145,7 +145,6 @@ if( Cell - Row['Zone Air Temperature 2'] > 5){
 ## Tile Data Object
 
 ```javascript
-[TileName]: {
     Grid: {
         selectedItem: {
             id: <id>,                 //selection Key from Bindings

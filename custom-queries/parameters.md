@@ -30,5 +30,5 @@ and returns the most recent value for each sensor recorded in the last: 1 day \(
 
 ![](../.gitbook/assets/image%20%2813%29.png)
 
-This query will always return the most recent readings for given site, sensors, equipment, and floor. This is quite a useful query, and one that we could use for other sites, sensors, equipment, or floors  ---  however writing a new dataset for each slight query variation would be a tedious and unwieldy strategy. Instead, we can use _**parameters**_ to make our queries more flexible.
+This query will always return the most recent readings for given site, sensors, equipment, and floor. This is quite a useful query, and one that we could use for other sites, sensors, equipment, or floors --- however writing a new dataset for each slight query variation would be a tedious and unwieldy strategy. Instead, we can use _**parameters**_ to make our queries more flexible.
 
