@@ -169,7 +169,7 @@ The Dynamic Text renderer, like the Text Box renderer, does not require any spec
 | Binding | Description |
 | :--- | :--- |
 | **Column Type** | Data type of column |
-| **Color** | Background color of the cell |
+| **Color** | Color of the pill/icon/text |
 | **Icon** | \(Optional\) The Icon to render on the LHS of the pill |
 | **Date Time Format** | \(Conditional Field\) If datatype is datetime, this binding controls how the date is rendered in the grid.  |
 | **Label** | \(Conditional Field\) If datatype is URL, this binding control what text is shown in the Pill. This is a manually set static field and cannot be set from the data source currently. |
