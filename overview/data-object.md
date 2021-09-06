@@ -24,5 +24,5 @@ Row = {<row1_data>}
 
 ### Cell
 
-Only supported in the grid tile. The contents of the current cell. Stored depending on cell data type. We will cover this more in the [Grid \[v2\]](../tiles/grid-v2.md) section.
+Only supported in the grid tile. The contents of the current cell. Stored depending on cell data type. We will cover this more in the [Grid \[v2\]](../tiles/grid-v2/) section.
 

@@ -67,8 +67,8 @@ This data source is useful for:
           Command points into a &apos;Progress Bar&apos; data format. If only one
           point exists per cell then &apos;Pill&apos; formatted data is returned.</p>
         <p></p>
-        <p>See <a href="../tiles/grid-v2.md">Grid [v2]</a> for renderer methods and
-          data formats.</p>
+        <p>See <a href="../tiles/grid-v2/">Grid [v2]</a> for renderer methods and data
+          formats.</p>
       </td>
     </tr>
   </tbody>

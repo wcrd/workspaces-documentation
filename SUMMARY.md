@@ -43,7 +43,11 @@
 * [Pie / Donut](tiles/pie-donut.md)
 * [Sensor](tiles/sensor.md)
 * [Status](tiles/status.md)
-* [Grid \[v2\]](tiles/grid-v2.md)
+* [Grid \[v2\]](tiles/grid-v2/README.md)
+  * [Data Bindings](tiles/grid-v2/data-bindings.md)
+  * [Display Bindings](tiles/grid-v2/display-bindings.md)
+  * [Cell Renderers](tiles/grid-v2/cell-renderers.md)
+  * [Tile Data Object](tiles/grid-v2/tile-data-object.md)
 * [Datetime Picker](tiles/datetime-picker.md)
 * [Template](tiles/template.md)
 
