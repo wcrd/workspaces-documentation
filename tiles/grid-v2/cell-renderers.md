@@ -2,6 +2,8 @@
 
 ## Text Box
 
+![](../../.gitbook/assets/image%20%2819%29.png)
+
 The text box is the default cell renderer. It simply displays the provided value in the cell. Available bindings:
 
 | Binding | Description |
@@ -12,17 +14,25 @@ The text box is the default cell renderer. It simply displays the provided value
 
 ## Pills
 
+![](../../.gitbook/assets/image%20%2821%29.png)
+
 Coming soon.
 
 ## Progress Bar
+
+![](../../.gitbook/assets/image%20%2818%29.png)
 
 Coming soon.
 
 ## Range Bar
 
+![](../../.gitbook/assets/image%20%2823%29.png)
+
 Coming soon.
 
 ## Dynamic Text
+
+![](../../.gitbook/assets/image%20%2822%29.png)
 
 The dynamic text renderer is similar to the standard 'Text Box' renderer, with some added design functionality. 
 
