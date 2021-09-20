@@ -1,4 +1,8 @@
-# Tag Pivot
+# \[Depreciated\] Tag Pivot
+
+{% hint style="danger" %}
+Tag Pivot is depreciated. Please use Tag Pivot \[v2\] and it's derivatives.
+{% endhint %}
 
 ## Overview
 

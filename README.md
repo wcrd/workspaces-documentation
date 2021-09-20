@@ -1,45 +1,18 @@
 # Introduction
 
-#### Run Sheet:
+## Welcome to Workspaces!
 
-1. Document Library overview
-2. Parameters in ADX queries
-3. Query functions
-4. Data lifecycle
-5. Bindings Panel review
-6. Getting data from ADX data object
-7. CONT: Tile type review
-   1. Grid
-      1. Look again at basic query and look at column formats and filters
-      2. 
-   2. Sensor
-   3. Status
-   4. Dynamic
-      1. Serie map on fixed basic query chart
-   5. Pie
-8. Getting data from other tiles
-   1. Grid Data Object
-   2. Create linked chart from grid
+The workspaces tool is a powerful feature that allows you to easily visualize your data. All data that is ingested into the Switch Platform is available for use in our workspaces feature.
 
-#### Topics:
+![An FM overview page](.gitbook/assets/image%20%2825%29.png)
 
-* Document Library overview
-* Query functions
-* Datasets parameters
-* Data lifecycle: Datasets to Workspaces
-* Bindings panel review
-* Tile type navigator and core tile type examples
-* Exposing and using tile data to filter, control, and display info in other tiles
-* \(Optional\) New Grid features:
-  * Calculated columns
-  * Filtering
-  * Conditional formatting
-  * Progress bars
-  * Pills
-* \(Optional\) Combobox tips
+![An AHU summary page](.gitbook/assets/image%20%2826%29.png)
 
-  
-
+## About this document
 
+This document provides a complete walkthrough of our workspaces feature and will get you up and running quickly. This document is divided into two key sections: a Quick Start guide, and detailed documentation on every aspect of the feature.
 
+{% page-ref page="quick-start-guide/getting-started.md" %}
+
+If this is your first time using Workspaces, it is recommended to work through the Quick Start guide in the next section.
 

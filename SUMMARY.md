@@ -1,13 +1,18 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Key Takeaways](key-takeaways.md)
 
 ## Quick Start Guide
 
+* [Getting started](quick-start-guide/getting-started.md)
 * [Create a Workspace](quick-start-guide/create-a-workspace.md)
 * [Create a Tile](quick-start-guide/create-a-tile.md)
 * [Get some data](quick-start-guide/get-some-data.md)
+* [Key Takeaways](quick-start-guide/key-takeaways.md)
+
+## Detailed Documentation
+
+* [Overview](detailed-documentation/overview.md)
 
 ## Library
 
@@ -27,12 +32,12 @@
 
 * [Overview](query-functions/overview/README.md)
   * [Wide vs. Narrow data](query-functions/overview/wide-vs.-narrow-data.md)
-* [Tag Pivot](query-functions/tag-pivot.md)
 * [Tag Pivot \[v2\]](query-functions/tag-pivot-v2.md)
 * [Tag Pivot Interval](query-functions/tag-pivot-interval.md)
 * [ADX Tag Pivot \(Endpoint\)](query-functions/adx-tag-pivot-endpoint.md)
 * [Raw ADX](query-functions/raw-adx.md)
 * [Pie Chart](query-functions/pie-chart.md)
+* [\[Depreciated\] Tag Pivot](query-functions/tag-pivot.md)
 
 ## Custom Queries
 

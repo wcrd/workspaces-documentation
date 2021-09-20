@@ -19,7 +19,7 @@ ObjectProperties
 | summarize arg_max(TimestampLocalId, Value) by EquipmentLabel, EquipmentType, PointName
 ```
 
-This query looks for sensors for the given
+This query looks for sensors for the given search terms:
 
 * Site \(InstallationID\) = 745a7ddf-d3b0-4a3d-8400-39724f15d0ad
 * Equipment Type = VAV
