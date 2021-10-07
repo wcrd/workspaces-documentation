@@ -9,6 +9,7 @@
 * [Create a Tile](quick-start-guide/create-a-tile.md)
 * [Get some data](quick-start-guide/get-some-data.md)
 * [Key Takeaways](quick-start-guide/key-takeaways.md)
+* [Walkthrough: Full basic workspace build](quick-start-guide/walkthrough-full-basic-workspace-build.md)
 
 ## Detailed Documentation
 

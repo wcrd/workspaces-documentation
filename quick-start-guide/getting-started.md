@@ -14,11 +14,15 @@ The remainder of this documentation covers off the workspaces tool in depth, and
 
 ## Basic Concepts
 
-Workspaces are comprised of two key components: **Tiles** & **Data sources.** Workspaces are made up of Tiles, and every tile needs a Data source.
+Before we get started lets cover off a couple of basic concepts. Workspaces are comprised of two key components: **Tiles** & **Data sources.** Workspaces are made up of Tiles, and every tile needs a Data source.
+
+![](../.gitbook/assets/image%20%2833%29.png)
 
 ### Tiles
 
-Drag and drop visualizations for your workspaces. Switch maintains a large library of tiles; some commonly used ones are: Bar Chart, Sensor Tile, Text Tile, Grid, Combo Box, etc.
+Tiles are drag and drop visualizations for your workspaces. Switch maintains a large library of tiles; some commonly used ones are: Bar Chart, Sensor Tile, Text Tile, Grid, Combo Box, etc.
+
+![Workspaces tiles](../.gitbook/assets/image%20%2832%29.png)
 
 ### Data sources
 
@@ -35,6 +39,10 @@ Query Functions are pre-made data sources that a user can easily configure in th
 #### Custom Queries
 
 Custom Queries are exactly what they sound like: custom data sources that are written by the User. These are more advanced than Query Functions and will not be covered in the Quick Start guide.
+
+
+
+![Building data returned by datasource](../.gitbook/assets/image%20%2827%29.png)
 
 ## Next Steps
 
