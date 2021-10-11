@@ -6,9 +6,9 @@
 
 As described in [editor-layout.md](../overview/editor-layout.md "mention"), each and every tile has the following Data Bindings:
 
-* Properties
-* Data Source
-* Tile Setup
+* **Properties**
+* **Data Source**
+* **Tile Setup**
 
 Using these three sections we can configure any tile in the workspace library.
 

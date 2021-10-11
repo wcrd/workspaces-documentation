@@ -10,7 +10,7 @@ The workspaces tool is a powerful feature that allows you to easily visualize yo
 
 ## About this document
 
-This document provides a complete walkthrough of our workspaces feature and will get you up and running quickly. This document is divided into two key sections: a Quick Start guide, and detailed documentation on every aspect of the feature.
+This document provides a complete walkthrough of our workspaces feature and will get you up and running quickly. This document is divided into **two key sections**: a Quick Start guide, and detailed documentation on every aspect of the feature.
 
 {% content-ref url="quick-start-guide/getting-started.md" %}
 [getting-started.md](quick-start-guide/getting-started.md)

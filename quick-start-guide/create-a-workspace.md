@@ -1,5 +1,15 @@
 # Create a Workspace
 
+## Steps
+
+To create a new workspace we need to do the following:
+
+* Create a new workspace in the Workspaces library
+* Set the workspace template
+* Save
+
+These steps are covered in detail below.
+
 ### Create new workspace
 
 To create a new workspace click the 'Add new' button in the Workspaces Library & Builder and select 'Add Workspace'.
@@ -32,6 +42,6 @@ In summary we have:
 2. Set the "Workspace Template"
 3. Pressed "Save"
 
-##  Next Steps <a href="next-steps" id="next-steps"></a>
+## Next Steps <a href="next-steps" id="next-steps"></a>
 
 Now that we know have successfully created a new workspace lets start adding some visualisations!

@@ -18,6 +18,10 @@ Before we get started lets cover off a couple of basic concepts. Workspaces are 
 
 ![](<../.gitbook/assets/image (33).png>)
 
+{% hint style="info" %}
+Workspaces are made up of **Tiles**. Every **Tile** has a **Data Source**.
+{% endhint %}
+
 ### Tiles
 
 Tiles are drag and drop visualizations for your workspaces. Switch maintains a large library of tiles; some commonly used ones are: Bar Chart, Sensor Tile, Text Tile, Grid, Combo Box, etc.
@@ -38,7 +42,7 @@ Query Functions are pre-made data sources that a user can easily configure in th
 
 #### Custom Queries
 
-Custom Queries are exactly what they sound like: custom data sources that are written by the User. These are more advanced than Query Functions and will not be covered in the Quick Start guide.
+Custom Queries are exactly what they sound like: custom data sources that are written by the User. These are more advanced than Query Functions and will not be covered in the Quick Start guide. See [Broken link](broken-reference "mention") for more info.
 
 
 
