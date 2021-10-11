@@ -36,4 +36,4 @@ This data source is useful for:
 
 #### e.g.:
 
-![count() of ZAT SP by EquipmentLabel](<../.gitbook/assets/image (4).png>)
+![count() of ZAT SP by EquipmentLabel](<../.gitbook/assets/image (10).png>)

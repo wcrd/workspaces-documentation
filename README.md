@@ -4,9 +4,9 @@
 
 The workspaces tool is a powerful feature that allows you to easily visualize your data. All data that is ingested into the Switch Platform is available for use in our workspaces feature.
 
-![An FM overview page](<.gitbook/assets/image (27).png>)
+![An FM overview page](<.gitbook/assets/image (25).png>)
 
-![An AHU summary page](<.gitbook/assets/image (28).png>)
+![An AHU summary page](<.gitbook/assets/image (26).png>)
 
 ## About this document
 

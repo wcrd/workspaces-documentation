@@ -2,7 +2,7 @@
 
 ## Text Box
 
-![](<../../.gitbook/assets/image (26).png>)
+![](<../../.gitbook/assets/image (19).png>)
 
 The text box is the default cell renderer. It simply displays the provided value in the cell. Available bindings:
 
@@ -14,25 +14,25 @@ The text box is the default cell renderer. It simply displays the provided value
 
 ## Pills
 
-![](<../../.gitbook/assets/image (22).png>)
+![](<../../.gitbook/assets/image (21).png>)
 
 Coming soon.
 
 ## Progress Bar
 
-![](<../../.gitbook/assets/image (23).png>)
+![](<../../.gitbook/assets/image (18).png>)
 
 Coming soon.
 
 ## Range Bar
 
-![](<../../.gitbook/assets/image (24).png>)
+![](<../../.gitbook/assets/image (23).png>)
 
 Coming soon.
 
 ## Dynamic Text
 
-![](<../../.gitbook/assets/image (25).png>)
+![](<../../.gitbook/assets/image (22).png>)
 
 The dynamic text renderer is similar to the standard 'Text Box' renderer, with some added design functionality. 
 
@@ -40,17 +40,17 @@ The dynamic text renderer is similar to the standard 'Text Box' renderer, with s
 
 The Dynamic Text renderer by default displays the cell value wrapped in a 'pill'. The user is able to configure both the _**color**_ and the _**icon**_ (optional) that is rendered. 
 
-![](<../../.gitbook/assets/image (16).png>)
+![](<../../.gitbook/assets/image (17).png>)
 
 The dynamic text renderer also supports the creation of basic hyperlinks.
 
-![](<../../.gitbook/assets/image (18).png>)
+![](<../../.gitbook/assets/image (15).png>)
 
 ### Bindings
 
 The Dynamic Text renderer, like the Text Box renderer, does not require any special data formats to work. It simply runs off the cell value.
 
-![](<../../.gitbook/assets/image (17).png>)
+![](<../../.gitbook/assets/image (11).png>)
 
 | Binding              | Description                                                                                                                                                                        |
 | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -65,7 +65,7 @@ The Dynamic Text renderer, like the Text Box renderer, does not require any spec
 
 Current icon support is still basic. We currently have access to the default set of icons from [Font Awesome](https://fontawesome.com). To use an icon, find the icon(s) of interest from Font Awesome, copy the icon name, and reference in the _**icon**_ binding as `fas:icon-name`. E.g.: the icon pictured below would be referenced as `fas:address-book`.  
 
-![Icon from font-awesome](<../../.gitbook/assets/image (19).png>)
+![Icon from font-awesome](<../../.gitbook/assets/image (1).png>)
 
 ### Note on URL column type
 

@@ -39,4 +39,4 @@ This data source is useful for:
 
 #### e.g.:
 
-![rowField=EquipmentLabel; columnField=PointName](../.gitbook/assets/image.png)
+![rowField=EquipmentLabel; columnField=PointName](<../.gitbook/assets/image (7).png>)

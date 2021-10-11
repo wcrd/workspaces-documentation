@@ -19,9 +19,9 @@ The `Spline` chart expects **Narrow **([Wide vs. Narrow data](../query-functions
 
 ### Data example
 
-![Discharge Air Temperature for a selection of VAVs](<../.gitbook/assets/image (1).png>)
+![Discharge Air Temperature for a selection of VAVs](<../.gitbook/assets/image (9).png>)
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (2).png>)
 
 _Note that a dynamic chart is shown in the image above. A dynamic chart is functionally the same as a spline chart for basic timeseries data plotted as a line._
 

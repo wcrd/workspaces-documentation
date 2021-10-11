@@ -38,5 +38,5 @@ This data source is useful for:
 
 #### e.g.:
 
-![rowField=EquipmentType;rowValue=VAV;columnField=PointName;columnValue=Discharge Air Temperature;searchParams="Floor=='07'"](<../.gitbook/assets/image (1).png>)
+![rowField=EquipmentType;rowValue=VAV;columnField=PointName;columnValue=Discharge Air Temperature;searchParams="Floor=='07'"](<../.gitbook/assets/image (9).png>)
 

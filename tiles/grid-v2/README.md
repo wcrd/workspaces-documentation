@@ -1,6 +1,6 @@
 # Grid \[v2]
 
-![Grid has many cell display options](<../../.gitbook/assets/image (20).png>)
+![Grid has many cell display options](<../../.gitbook/assets/image (38).png>)
 
 < INSERT DESCRIPTION OF GRID 2>
 

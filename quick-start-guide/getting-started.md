@@ -16,13 +16,13 @@ The remainder of this documentation covers off the workspaces tool in depth, and
 
 Before we get started lets cover off a couple of basic concepts. Workspaces are comprised of two key components: **Tiles **& **Data sources. **Workspaces are made up of Tiles, and every tile needs a Data source.
 
-![](<../.gitbook/assets/image (29).png>)
+![](<../.gitbook/assets/image (33).png>)
 
 ### Tiles
 
 Tiles are drag and drop visualizations for your workspaces. Switch maintains a large library of tiles; some commonly used ones are: Bar Chart, Sensor Tile, Text Tile, Grid, Combo Box, etc.
 
-![Workspaces tiles](<../.gitbook/assets/image (30).png>)
+![Workspaces tiles](<../.gitbook/assets/image (32).png>)
 
 ### Data sources
 
@@ -42,7 +42,7 @@ Custom Queries are exactly what they sound like: custom data sources that are wr
 
 
 
-![Building data returned by datasource](<../.gitbook/assets/image (31).png>)
+![Building data returned by datasource](<../.gitbook/assets/image (27).png>)
 
 ## Next Steps
 

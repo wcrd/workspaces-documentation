@@ -29,6 +29,23 @@
 * [Editor layout](overview/editor-layout.md)
 * [Data Object](overview/data-object.md)
 
+## Tiles
+
+* [Overview](tiles/untitled.md)
+* [Tile Gallery](tiles/tile-gallery.md)
+* [Spline](tiles/spline.md)
+* [Dynamic](tiles/dynamic.md)
+* [Pie / Donut](tiles/pie-donut.md)
+* [Sensor](tiles/sensor.md)
+* [Status](tiles/status.md)
+* [Grid \[v2\]](tiles/grid-v2/README.md)
+  * [Data Bindings](tiles/grid-v2/data-bindings.md)
+  * [Display Bindings](tiles/grid-v2/display-bindings.md)
+  * [Cell Renderers](tiles/grid-v2/cell-renderers.md)
+  * [Tile Data Object](tiles/grid-v2/tile-data-object.md)
+* [Datetime Picker](tiles/datetime-picker.md)
+* [Template](tiles/template.md)
+
 ## Query Functions
 
 * [Overview](query-functions/overview/README.md)
@@ -46,19 +63,3 @@
 * [Parameterized Queries](custom-queries/parameterized-queries/README.md)
   * [Parameterized Basic Query](custom-queries/parameterized-queries/parameterized-basic-query.md)
   * [Parameter Types](custom-queries/parameterized-queries/parameter-types.md)
-
-## Tiles
-
-* [Overview](tiles/untitled.md)
-* [Spline](tiles/spline.md)
-* [Dynamic](tiles/dynamic.md)
-* [Pie / Donut](tiles/pie-donut.md)
-* [Sensor](tiles/sensor.md)
-* [Status](tiles/status.md)
-* [Grid \[v2\]](tiles/grid-v2/README.md)
-  * [Data Bindings](tiles/grid-v2/data-bindings.md)
-  * [Display Bindings](tiles/grid-v2/display-bindings.md)
-  * [Cell Renderers](tiles/grid-v2/cell-renderers.md)
-  * [Tile Data Object](tiles/grid-v2/tile-data-object.md)
-* [Datetime Picker](tiles/datetime-picker.md)
-* [Template](tiles/template.md)

@@ -72,7 +72,7 @@ We then configure the parameters in the parameter manager drawer. We need to pro
 * Parameter type (see [Parameter Types](parameter-types.md)) --- in this case above they are all _**strings **_except for the timespan which is a _**keyword**_
 * Default values --- the value to use if the user does not provide a value
 
-![](<../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (4).png>)
 
 _Note: the image of the bindings panel above is unrelated to the basic query. It is just an example of the bindings panel._
 
@@ -80,6 +80,6 @@ _Note: the image of the bindings panel above is unrelated to the basic query. It
 
 When the datasource is selected in the workspace bindings 'Data Source' field, the parameters that have been configured in the dataset will show under the 'Parameters' drop down and will pre-fill with the default values.
 
-![](<../../.gitbook/assets/image (10).png>)
+![](../../.gitbook/assets/image.png)
 
 _Note: the image of the bindings panel above is unrelated to the basic query. It is just an example of the bindings panel._
