@@ -9,5 +9,4 @@ Each tile has:
 
 Each tile exposes a tile data object.
 
-Tile names **MUST** be unique.
-
+Tile names **MUST **be unique.
