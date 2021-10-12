@@ -7,7 +7,10 @@
 * [Getting started](quick-start-guide/getting-started.md)
 * [Create a Workspace](quick-start-guide/create-a-workspace.md)
 * [Create a Tile](quick-start-guide/create-a-tile.md)
-* [Get some data](quick-start-guide/get-some-data.md)
+* [Configure the Tile](quick-start-guide/configure-the-tile/README.md)
+  * [Set the Tile Properties](quick-start-guide/configure-the-tile/set-the-tile-properties.md)
+  * [Get some data](quick-start-guide/configure-the-tile/get-some-data.md)
+  * [Set up the Tile display](quick-start-guide/configure-the-tile/set-up-the-tile-display.md)
 * [Key Takeaways](quick-start-guide/key-takeaways.md)
 * [Walkthrough: Full basic workspace build](quick-start-guide/walkthrough-full-basic-workspace-build.md)
 
@@ -32,7 +35,8 @@
 ## Tiles
 
 * [Overview](tiles/untitled.md)
-* [Tile Gallery](tiles/tile-gallery.md)
+* [Tile Library](tiles/tile-library.md)
+* [Gallery of Tiles](tiles/gallery-of-tiles.md)
 * [Spline](tiles/spline.md)
 * [Dynamic](tiles/dynamic.md)
 * [Pie / Donut](tiles/pie-donut.md)

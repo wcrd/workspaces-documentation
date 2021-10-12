@@ -6,7 +6,7 @@ This Quick Start Guide provides a high level overview on getting started with Wo
 
 1. [Creating a Workspace](create-a-workspace.md)
 2. [Creating Tiles](create-a-tile.md)
-3. [Getting Data](get-some-data.md)
+3. [Getting Data](configure-the-tile/get-some-data.md)
 
 At the completion of this Quick Start Guide you will have a basic workspace.
 
@@ -14,7 +14,7 @@ The remainder of this documentation covers off the workspaces tool in depth, and
 
 ## Basic Concepts
 
-Before we get started lets cover off a couple of basic concepts. Workspaces are comprised of two key components: **Tiles **& **Data sources. **Workspaces are made up of Tiles, and every tile needs a Data source.
+Before we get started lets cover off a couple of basic concepts. Workspaces are comprised of two key components: **Tiles **& **Data sources. **Workspaces are made up of **Tiles**, and every **Tile **needs a **Data source**.
 
 ![](<../.gitbook/assets/image (33).png>)
 
@@ -32,6 +32,8 @@ Tiles are drag and drop visualizations for your workspaces. Switch maintains a l
 
 Data sources return filtered building data in an expected format. Data sources can be premade **Query Functions **or **Custom Queries.**
 
+![Building data returned by datasource](<../.gitbook/assets/image (27).png>)
+
 {% hint style="info" %}
 For most use cases it is recommended to use our premade **Query Functions**
 {% endhint %}
@@ -43,10 +45,6 @@ Query Functions are pre-made data sources that a user can easily configure in th
 #### Custom Queries
 
 Custom Queries are exactly what they sound like: custom data sources that are written by the User. These are more advanced than Query Functions and will not be covered in the Quick Start guide. See [Broken link](broken-reference "mention") for more info.
-
-
-
-![Building data returned by datasource](<../.gitbook/assets/image (27).png>)
 
 ## Next Steps
 

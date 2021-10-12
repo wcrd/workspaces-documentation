@@ -1,4 +1,4 @@
-# Tile Gallery
+# Gallery of Tiles
 
 ## Charts
 
@@ -24,7 +24,7 @@
 
 ### Gauge
 
-![](<../.gitbook/assets/image (34).png>)
+![](<../.gitbook/assets/image (34) (1).png>)
 
 ADD Centre Aligned
 
