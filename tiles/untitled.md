@@ -4,7 +4,7 @@
 
 ### Setup
 
-As described in [editor-layout.md](../overview/editor-layout.md "mention"), each and every tile has the following Data Bindings:
+As described in [editor-layout](../overview/editor-panel/editor-layout/ "mention"), each and every tile has the following Data Bindings:
 
 * **Properties**
 * **Data Source**

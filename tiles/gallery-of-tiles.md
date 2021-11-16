@@ -40,7 +40,7 @@ ADD Centre Aligned
 
 ### Sensor
 
-![](<../.gitbook/assets/image (39).png>)
+![](<../.gitbook/assets/image (39) (1).png>)
 
 See [sensor.md](sensor.md "mention")
 

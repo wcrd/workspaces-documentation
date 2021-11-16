@@ -7,6 +7,7 @@ This Quick Start Guide provides a high level overview on getting started with Wo
 1. [Creating a Workspace](create-a-workspace.md)
 2. [Creating Tiles](create-a-tile.md)
 3. [Getting Data](configure-the-tile/get-some-data.md)
+4. [Configuring the Tile appearance](configure-the-tile/set-up-the-tile-display.md)
 
 At the completion of this Quick Start Guide you will have a basic workspace.
 

@@ -7,6 +7,7 @@
 * [Getting started](quick-start-guide/getting-started.md)
 * [Create a Workspace](quick-start-guide/create-a-workspace.md)
 * [Create a Tile](quick-start-guide/create-a-tile.md)
+* [Move & size the Tile](quick-start-guide/move-and-size-the-tile.md)
 * [Configure the Tile](quick-start-guide/configure-the-tile/README.md)
   * [Set the Tile Properties](quick-start-guide/configure-the-tile/set-the-tile-properties.md)
   * [Get some data](quick-start-guide/configure-the-tile/get-some-data.md)
@@ -29,13 +30,21 @@
 ## Workspace Editor <a href="overview" id="overview"></a>
 
 * [Data lifecycle](overview/data-lifecycle.md)
-* [Editor layout](overview/editor-layout.md)
+* [Editor Panel](overview/editor-panel/README.md)
+  * [Workspace Bindings](overview/editor-panel/workspace-bindings.md)
+  * [Tile Library](overview/editor-panel/tile-library.md)
+  * [Tile Bindings](overview/editor-panel/editor-layout/README.md)
+    * [Tile Properties](overview/editor-panel/editor-layout/tile-properties.md)
+    * [Data Source](overview/editor-panel/editor-layout/data-source.md)
+    * [Filter](overview/editor-panel/editor-layout/filter.md)
+    * [Tile Setup](overview/editor-panel/editor-layout/tile-setup.md)
+  * [Drilldown Bindings](overview/editor-panel/drilldown-bindings.md)
+  * [Global Parameters](overview/editor-panel/global-parameters.md)
 * [Data Object](overview/data-object.md)
 
 ## Tiles
 
 * [Overview](tiles/untitled.md)
-* [Tile Library](tiles/tile-library.md)
 * [Gallery of Tiles](tiles/gallery-of-tiles.md)
 * [Spline](tiles/spline.md)
 * [Dynamic](tiles/dynamic.md)

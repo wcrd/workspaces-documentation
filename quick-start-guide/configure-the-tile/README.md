@@ -10,7 +10,7 @@ Every tile has the following configuration sections (data bindings):
 * **Data Source**
 * **Tile Setup**
 
-Using these three sections we can configure any tile in the workspace library.
+Using these three sections we can configure every tile in the workspace library.
 
 ![](<../../.gitbook/assets/image (37).png>)
 
