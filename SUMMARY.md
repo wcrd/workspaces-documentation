@@ -42,6 +42,10 @@
   * [Global Parameters](overview/editor-panel/global-parameters.md)
 * [Data Object](overview/data-object.md)
 
+## Workspace Setup
+
+* [Scaling](workspace-setup/scaling.md)
+
 ## Tiles
 
 * [Overview](tiles/untitled.md)
