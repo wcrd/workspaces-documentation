@@ -2,7 +2,7 @@
 
 ## Data Bindings
 
-The `Pie Chart` & `Donut Chart` expect **Narrow **([Wide vs. Narrow data](../query-functions/overview/wide-vs.-narrow-data.md)) data.
+The `Pie Chart` & `Donut Chart` expect **Narrow** ([Wide vs. Narrow data](../query-functions/overview/wide-vs.-narrow-data.md)) data.
 
 ### Data binding fields
 

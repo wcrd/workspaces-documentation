@@ -1,8 +1,8 @@
 # Key Takeaways
 
-## **Use pre-made Query functions where possible. **
+## **Use pre-made Query functions where possible.**&#x20;
 
-Most standard dashboards should be fine using query functions. Using standardized functions will: 
+Most standard dashboards should be fine using query functions. Using standardized functions will:&#x20;
 
 * Reduce errors
 * Simplify your dashboards
@@ -14,7 +14,7 @@ Custom queries will make dashboards harder to maintain for others and pollute da
 
 ##
 
-     
+&#x20;   &#x20;
 
 
 

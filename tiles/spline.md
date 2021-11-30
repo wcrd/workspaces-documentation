@@ -6,13 +6,13 @@
 
 ### Data Source
 
-The `Spline` chart expects **Narrow **([wide-vs.-narrow-data.md](../query-functions/overview/wide-vs.-narrow-data.md "mention")) data.
+The `Spline` chart expects **Narrow** ([wide-vs.-narrow-data.md](../query-functions/overview/wide-vs.-narrow-data.md "mention")) data.
 
 #### Useful query functions
 
 The following query functions can be used to generate `Spline` chart data.
 
-* [tag-pivot-interval.md](../query-functions/tag-pivot-interval.md "mention") 
+* [tag-pivot-interval.md](../query-functions/tag-pivot-interval.md "mention")&#x20;
 
 ### Tile Setup
 

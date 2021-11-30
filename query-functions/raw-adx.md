@@ -1,8 +1,7 @@
-# Raw ADX
+# 🟡 Raw ADX
 
 ## Overview
 
 ## Parameters
 
 ## Return Format
-

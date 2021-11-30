@@ -1,6 +1,6 @@
 # Data Bindings
 
-The `Grid` (v2) tile expects **Wide **([Wide vs. Narrow data](../../query-functions/overview/wide-vs.-narrow-data.md)) data.
+The `Grid` (v2) tile expects **Wide** ([Wide vs. Narrow data](../../query-functions/overview/wide-vs.-narrow-data.md)) data.
 
 ## Data binding fields
 
@@ -15,7 +15,7 @@ The `Grid` (v2) tile expects **Wide **([Wide vs. Narrow data](../../query-functi
 
 ## Special Grid bindings
 
-The `Grid` tile has a number of special feature compared to the other tiles: 
+The `Grid` tile has a number of special feature compared to the other tiles:&#x20;
 
 1. **"Cell Renderer" bindings**\
    These bindings allow a user to customize how the values (and special value objects) are displayed in the cells.

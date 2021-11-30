@@ -34,11 +34,11 @@ Coming soon.
 
 ![](<../../.gitbook/assets/image (22).png>)
 
-The dynamic text renderer is similar to the standard 'Text Box' renderer, with some added design functionality. 
+The dynamic text renderer is similar to the standard 'Text Box' renderer, with some added design functionality.&#x20;
 
 ### Overview
 
-The Dynamic Text renderer by default displays the cell value wrapped in a 'pill'. The user is able to configure both the _**color**_ and the _**icon**_ (optional) that is rendered. 
+The Dynamic Text renderer by default displays the cell value wrapped in a 'pill'. The user is able to configure both the _**color**_ and the _**icon**_ (optional) that is rendered.&#x20;
 
 ![](<../../.gitbook/assets/image (17).png>)
 
@@ -63,17 +63,17 @@ The Dynamic Text renderer, like the Text Box renderer, does not require any spec
 
 ### Note on using Icons
 
-Current icon support is still basic. We currently have access to the default set of icons from [Font Awesome](https://fontawesome.com). To use an icon, find the icon(s) of interest from Font Awesome, copy the icon name, and reference in the _**icon**_ binding as `fas:icon-name`. E.g.: the icon pictured below would be referenced as `fas:address-book`.  
+Current icon support is still basic. We currently have access to the default set of icons from [Font Awesome](https://fontawesome.com). To use an icon, find the icon(s) of interest from Font Awesome, copy the icon name, and reference in the _**icon**_ binding as `fas:icon-name`. E.g.: the icon pictured below would be referenced as `fas:address-book`. &#x20;
 
 ![Icon from font-awesome](<../../.gitbook/assets/image (1).png>)
 
 ### Note on URL column type
 
 1. **Additional bindings:**\
-   ****The URL column type takes the cell value and converts it into a hyperlink element. This hyperlink element has additional bindings _**label**_ and _**opens in new tab **_that control the behavior of that hyperlink element. These options apply to the entire column; it is not possible to set unique behavior per cell. If a user needs a set of links that open in the current window, and a set of links that open in a new tab, then you can either: a) create two columns in the grid, one for each style, or b) create two separate grids, one for each style. Convention is to use two separate grids as this is generally clearer from a UX perspective.\
+   ****The URL column type takes the cell value and converts it into a hyperlink element. This hyperlink element has additional bindings _**label**_ and _**opens in new tab**_ that control the behavior of that hyperlink element. These options apply to the entire column; it is not possible to set unique behavior per cell. If a user needs a set of links that open in the current window, and a set of links that open in a new tab, then you can either: a) create two columns in the grid, one for each style, or b) create two separate grids, one for each style. Convention is to use two separate grids as this is generally clearer from a UX perspective.\
 
 2.  **URL value:**\
-    ****The cell value can either be: 
+    ****The cell value can either be:&#x20;
 
     * _**an absolute link**_, i.e.: "https://www.google.com/"
     * _**a relative link to a Switch Asset**_, i.e.: "#/workspaces/wid=876485762-24095y23489-452y343"

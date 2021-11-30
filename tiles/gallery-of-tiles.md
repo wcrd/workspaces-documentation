@@ -24,13 +24,13 @@
 
 ### Gauge
 
-![](<../.gitbook/assets/image (34) (1).png>)
+![](<../.gitbook/assets/image (34) (1) (1).png>)
 
 ADD Centre Aligned
 
 ### Multi-series Gauge
 
-![](<../.gitbook/assets/image (43).png>)
+![](<../.gitbook/assets/image (43) (1).png>)
 
 ### Gross Deviation Chart
 
@@ -46,7 +46,7 @@ See [sensor.md](sensor.md "mention")
 
 ### Status
 
-![](<../.gitbook/assets/image (36).png>)
+![](<../.gitbook/assets/image (36) (1).png>)
 
 See [status.md](status.md "mention")
 

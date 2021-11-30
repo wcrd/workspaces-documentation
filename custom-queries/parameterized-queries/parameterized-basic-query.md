@@ -45,7 +45,7 @@ ObjectProperties
 
 ## Parameterizing keywords
 
-The fields we parameterized above were all 'strings'. There is one other field we could make use of in the basic query and that is the _**timeperiod**_** **keyword that is used to fetch the timeseries data (1d).
+The fields we parameterized above were all 'strings'. There is one other field we could make use of in the basic query and that is the _**timeperiod**_** ** keyword that is used to fetch the timeseries data (1d).
 
 This value is not a string, but an ADX keyword --- it is a term that ADX can process directly. We can parameterize this in the same way as the values, but we will instead set the parameter type to 'keyword' in the configuration stage. We will use the parameter name: @timeperiod.
 
@@ -69,7 +69,7 @@ ObjectProperties
 We then configure the parameters in the parameter manager drawer. We need to provide:
 
 * Parameter name (see above)
-* Parameter type (see [Parameter Types](parameter-types.md)) --- in this case above they are all _**strings **_except for the timespan which is a _**keyword**_
+* Parameter type (see [Parameter Types](parameter-types.md)) --- in this case above they are all _**strings**_ except for the timespan which is a _**keyword**_
 * Default values --- the value to use if the user does not provide a value
 
 ![](<../../.gitbook/assets/image (4).png>)

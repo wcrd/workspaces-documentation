@@ -1,4 +1,4 @@
-# Get some data
+# 🟡 Get some data
 
 Get data using pre-made query function.
 

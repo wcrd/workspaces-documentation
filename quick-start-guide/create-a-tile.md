@@ -18,17 +18,17 @@ The Tile Library can be accessed from the right hand side panel as pictured belo
   * **Others**: any other tiles that don't fit into the above categories
 * **Additional**: This section contains specialist tiles - tiles that are designed for a particular use case or feature.
 
-![Tile Library](<../.gitbook/assets/image (34).png>)
+![Tile Library](<../.gitbook/assets/image (34) (1).png>)
 
 ### Add to the Canvas
 
 Creating a new Tile is as simple as dragging and dropping on the Canvas.
 
-![](../.gitbook/assets/drag_and_drop.gif)
+![](../.gitbook/assets/drag\_and\_drop.gif)
 
 Notice that after a Tile has been created the right hand side panel automatically switches to show the configuration settings (data bindings) for that Tile. This is explored in detail in the following section.
 
 {% hint style="info" %}
-If you want to go back to the Tile Library, click the :heavy_plus_sign: tab at the top of the right hand side menu.
+If you want to go back to the Tile Library, click the :heavy\_plus\_sign: tab at the top of the right hand side menu.
 {% endhint %}
 

@@ -34,17 +34,17 @@ Grid2 supports custom columns. Custom columns have all the same bindings and ren
 
 When a custom column is created (or conditional formatting is applied), the _**Cell Value**_ binding is evaluated for every cell in the column. As each cell is being evaluated, the **Row** data object variable provides access to the cell values in all columns for the particular row that is being evaluated (the row the cell is in).
 
-![Example of how the custom column cell values are set](../../.gitbook/assets/custom_column.png)
+![Example of how the custom column cell values are set](../../.gitbook/assets/custom\_column.png)
 
-In the figure above we are imagining we are observing the custom column midway through setting the cell values. The current cell being evaluated is highlighted in red. The values of the **Row **data object are highlighted in pink.
+In the figure above we are imagining we are observing the custom column midway through setting the cell values. The current cell being evaluated is highlighted in red. The values of the **Row** data object are highlighted in pink.
 
 If our **Cell Value** binding was `Row['Zone Air Temperature']` the the value of the custom column cell would be set as **10.88**, i.e.: the value of the column 'Zone Air Temperature' for that particular row.
 
 #### Example
 
-An example formula for Cell Value using **Row **variable is provided below.
+An example formula for Cell Value using **Row** variable is provided below.
 
-####  _Cell Value:_
+#### &#x20;_Cell Value:_
 
 ```javascript
 Row['Zone Air Temperature'] * 2 - 55 
@@ -58,19 +58,19 @@ Conditional formatting can be set by using the **Cell Color** binding in the Tex
 
 The **Row** data object behavior is documented above and can be used in the exact same way for cell coloring based on other columns in the row of the current cell.
 
-The **Cell **data object is simply a shorthand way of referring to the value of the current cell being evaluated.
+The **Cell** data object is simply a shorthand way of referring to the value of the current cell being evaluated.
 
-![](../../.gitbook/assets/conditonal_formatting.png)
+![](../../.gitbook/assets/conditonal\_formatting.png)
 
 In the figure above we are again imagining we are midway through processing the conditional formatting on this column. The workspace is currently applying the conditional formatting formula to the cell highlighted in red.
 
-If we were to call `Cell` in our **Cell Color **binding, the value returned would be the value of the current cell...that is **1.72. **This is equivalent to calling `Row['My Custom Column']` but is a bit more compact. **Cell** is useful when the cells color depends only on the value of the cell itself; if the cell color depends on the value of other column's values, then the **Row **variable needs to be used to access them.
+If we were to call `Cell` in our **Cell Color** binding, the value returned would be the value of the current cell...that is **1.72.** This is equivalent to calling `Row['My Custom Column']` but is a bit more compact. **Cell** is useful when the cells color depends only on the value of the cell itself; if the cell color depends on the value of other column's values, then the **Row** variable needs to be used to access them.
 
 #### Example
 
-Two example formulas for cell coloring are provide below using both **Cell **and **Row **variables.
+Two example formulas for cell coloring are provide below using both **Cell** and **Row** variables.
 
-####  _Cell Color:_
+#### &#x20;_Cell Color:_
 
 ```javascript
 // BASIC FORMULA

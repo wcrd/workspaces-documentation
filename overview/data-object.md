@@ -4,7 +4,7 @@ The data returned by the datasource is stored as a `JavaScript` object by the wo
 
 ### Data
 
-The entire (filtered) dataset returned by the datasource: **Data. **Stored as an array of objects.
+The entire (filtered) dataset returned by the datasource: **Data.** Stored as an array of objects.
 
 ```javascript
 Data = [

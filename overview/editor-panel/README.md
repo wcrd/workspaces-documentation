@@ -1,4 +1,4 @@
-# Editor Panel
+# 🟡 Editor Panel
 
 * Workspaces setup
 * Tile Library

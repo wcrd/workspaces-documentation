@@ -12,6 +12,6 @@ The Tile Library can be accessed from the right hand side panel as pictured belo
   * **Others**: any other tiles that don't fit into the above categories
 * **Additional**: This section contains specialist tiles - tiles that are designed for a particular use case or feature.
 
-![Tile Library](<../../.gitbook/assets/image (34).png>)
+![Tile Library](<../../.gitbook/assets/image (34) (1).png>)
 
 ###

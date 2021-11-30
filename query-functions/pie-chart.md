@@ -6,7 +6,7 @@ This Query Function is still under development
 
 ## Overview
 
-`Pie Chart` returns sensor data in a 2D **narrow **array, with a field for the labels and values. This data source does not yet generate color mappings.
+`Pie Chart` returns sensor data in a 2D **narrow** array, with a field for the labels and values. This data source does not yet generate color mappings.
 
 The `Pie Chart` source returns the most recent reading for each sensor it finds; i.e. it returns the 'live' data for each point. If multiple sensors are returned for the 'group by' combination, then the average value is returned.
 

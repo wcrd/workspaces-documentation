@@ -15,7 +15,7 @@ The remainder of this documentation covers off the workspaces tool in depth, and
 
 ## Basic Concepts
 
-Before we get started lets cover off a couple of basic concepts. Workspaces are comprised of two key components: **Tiles **& **Data sources. **Workspaces are made up of **Tiles**, and every **Tile **needs a **Data source**.
+Before we get started lets cover off a couple of basic concepts. Workspaces are comprised of two key components: **Tiles** & **Data sources.** Workspaces are made up of **Tiles**, and every **Tile** needs a **Data source**.
 
 ![](<../.gitbook/assets/image (33).png>)
 
@@ -31,7 +31,7 @@ Tiles are drag and drop visualizations for your workspaces. Switch maintains a l
 
 ### Data sources
 
-Data sources return filtered building data in an expected format. Data sources can be premade **Query Functions **or **Custom Queries.**
+Data sources return filtered building data in an expected format. Data sources can be premade **Query Functions** or **Custom Queries.**
 
 ![Building data returned by datasource](<../.gitbook/assets/image (27).png>)
 

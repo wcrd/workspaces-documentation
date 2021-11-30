@@ -1,8 +1,8 @@
-# Status
+# 🟡 Status
 
 ## Data Bindings
 
-expect **Narrow **([Wide vs. Narrow data](../query-functions/overview/wide-vs.-narrow-data.md)) data.
+expect **Narrow** ([Wide vs. Narrow data](../query-functions/overview/wide-vs.-narrow-data.md)) data.
 
 ### Data binding fields
 

@@ -1,2 +1,2 @@
-# Walkthrough: Full basic workspace build
+# 🟡 Walkthrough: Full basic workspace build
 
