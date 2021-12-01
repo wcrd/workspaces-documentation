@@ -83,13 +83,31 @@ After selection a resolution (as per above), to set the workspace as **Scale to 
 
 ### Scale to Screen
 
+The workspace will scale proportionally to fit the entire canvas area within the screen. It scales for both **height** and **width.** This is the best option if you want to build a workspace in a set area and always have that area visible to the end user - no matter the screen size!
+
+We support a variety of canvas sizes and shapes:
+
+![](<../.gitbook/assets/image (43).png>)
+
+Once the canvas size is set, the workspace will scale to always show that area for the given screen size. The best think about this scaling mode is that is still supports an unlimited vertical canvas; that is you can still build a workspace that is scrollable by the user!
+
+![16:9 canvas scaling to screen size](../.gitbook/assets/scaling\_screen.webp)
+
 {% hint style="info" %}
 After selection a resolution (as per above), to set the workspace as **Scale to Screen** select the '**Scale to Screen**' option from the Scaling Mode drop-down, then set the canvas size that you want the screen to always see using the Aspect Ratio drop-down.
 {% endhint %}
 
 ### Full Size Scale
 
+This is a special mode of the [Scale to Screen](scaling.md#scale-to-screen) mode. The workspace will always scale proportionally to fit the entire workspace in the given screen. In standard Scale to Screen, the workspace allows scrolling content that is outside of the set canvas area. In Full Size Scale mode, the canvas size is automatically set to the size of the workspace content, there-by always showing all tiles on screen - there is no scrolling.
+
+![Fixed size auto scaling](../.gitbook/assets/scaling\_screen\_auto.webp)
+
 ## How to set the Workspace scaling mode
+
+{% hint style="info" %}
+You can change the scaling mode of the workspace at any time - so feel free to experiment!
+{% endhint %}
 
 1.  Access the Workspace setup bindings panel
 

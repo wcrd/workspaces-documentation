@@ -30,7 +30,7 @@ ADD Centre Aligned
 
 ### Multi-series Gauge
 
-![](<../.gitbook/assets/image (43) (1) (1).png>)
+![](<../.gitbook/assets/image (43) (1) (1) (1).png>)
 
 ### Gross Deviation Chart
 
