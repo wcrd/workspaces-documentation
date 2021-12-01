@@ -44,8 +44,7 @@
 
 ## Workspace Setup
 
-* [Scaling](workspace-setup/scaling/README.md)
-  * [Settings](workspace-setup/scaling/settings.md)
+* [Scaling](workspace-setup/scaling.md)
 
 ## Tiles
 
