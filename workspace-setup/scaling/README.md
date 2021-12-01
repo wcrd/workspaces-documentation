@@ -1,6 +1,6 @@
 # Scaling
 
-![Scale to fit, scale to workspace, fixed size, dynamic scaling - set your workspace scale preferences](<../../.gitbook/assets/image (47) (1).png>)
+![Scale to fit, scale to workspace, fixed size, dynamic scaling - set your workspace scale preferences](<../../.gitbook/assets/image (47) (1) (1).png>)
 
 ## Overview
 
@@ -17,12 +17,18 @@ The scaling mode you are most familiar with will be the '**Scale to Screen**'. T
 
 Scaling modes are described in detail below. Information about how to set the scaling behaviour can be found [here](settings.md).&#x20;
 
+{% hint style="danger" %}
+**Auto** scaling changes the layout of the workspace.
+
+**Fixed** scaling maintains the layout of the workspace.
+{% endhint %}
+
 ## Auto Scaling
 
 Auto scaling grows and shrinks the _**width**_ of the Tiles to fit the screen width. No vertical scaling occurs and no content scaling occurs, apart from auto redrawing of chart content (which happens by default). Font sizes will remain constant using this scaling method. The workspace will look slightly different on every screen it is shown on.
 
 {% hint style="info" %}
-Auto scaling works well when you want the content size to be fixed, but want the workspace to grow to fill the screen width.
+Auto scaling works well when you want the content size to be fixed, but want the workspace elements to grow to fill the screen width.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -59,7 +65,7 @@ Once completed, if the workspace is displayed on a screen that is too large, the
 
 ![Fixed size workspace shown in window that is much wider. Workspace is centered in the screen, but the workspace has not been scaled to fit.](<../../.gitbook/assets/image (36).png>)
 
-![Fixed size workspace shown in window that is not wide enough. Workspace is cut-off, with a horizontal scroll bar appearing at the bottom of the screen. The workspace has not been scaled to fit.](<../../.gitbook/assets/image (47).png>)
+![Fixed size workspace shown in window that is not wide enough. Workspace is cut-off, with a horizontal scroll bar appearing at the bottom of the screen. The workspace has not been scaled to fit.](<../../.gitbook/assets/image (47) (1).png>)
 
 {% hint style="info" %}
 After selection a resolution (as per above), to set the workspace as **Fixed (no scale)** select the '**fixed**' option from the Scaling Mode drop-down.
@@ -84,3 +90,54 @@ After selection a resolution (as per above), to set the workspace as **Scale to 
 ### Full Size Scale
 
 ## How to set the Workspace scaling mode
+
+1.  Access the Workspace setup bindings panel
+
+    ![](<../../.gitbook/assets/image (41).png>)
+
+
+2.  In the 'resolution' binding set:
+
+    :: '_**auto**_' for [Auto Scaling](./#auto-scaling)
+
+    :: or select a canvas width for [Fixed Scaling](./#fixed-scaling)
+
+    ![](<../../.gitbook/assets/image (40).png>)
+
+
+3.  If you selected '**auto**' in the previous step then you are all done.
+
+    If you selected a canvas width, then an additional **Scaling Mode** combo box will appear allowing you to choose the particular fixed scaling mode you want.
+
+    ![](<../../.gitbook/assets/image (48).png>)
+
+
+
+    Select:
+
+    1. '**Fixed**' for [Fixed (no scaling)](./#fixed-no-scaling) behaviour
+    2. '**Fit to Width**' for [Scale to Width](./#scale-to-width) behaviour
+    3.  '**Fit to Screen**' for [Scale to Screen](./#scale-to-screen) or [Full size scale](./#full-size-scale) behaviour
+
+
+4.  If you selected '**Fixed**' or '**Fit to Width**' in the previous step then you are all done.
+
+    If you selected 'Fit to Screen' then one final **Aspect Ratio** combo box will appear allowing you to set the exact size of the canvas you want to build you workspace to (i.e. what area will always be shown on screen).
+
+    ![](<../../.gitbook/assets/image (47).png>)
+
+
+
+    Select:
+
+    1. '**auto**' for [Full size scale](./#full-size-scale) behaviour
+    2. select an aspect ratio (e.g. 16:9) for [Scale to Screen](./#scale-to-screen) behaviour
+
+
+
+    If you select an aspect ratio you will see a blue line drawn horizontally on the workspace canvas. This shows what area will always be scaled to fit within the given screen size
+
+![16:9 canvas at 1920p size](<../../.gitbook/assets/image (38).png>)
+
+
+

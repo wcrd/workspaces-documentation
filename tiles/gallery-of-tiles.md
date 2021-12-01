@@ -8,7 +8,7 @@
 
 ### Column
 
-![](<../.gitbook/assets/image (41).png>)
+![](<../.gitbook/assets/image (41) (1).png>)
 
 ### Bar
 
@@ -18,7 +18,7 @@
 
 ### Pie
 
-![](<../.gitbook/assets/image (42).png>)
+![](<../.gitbook/assets/image (42) (1).png>)
 
 ### Donut
 
@@ -30,7 +30,7 @@ ADD Centre Aligned
 
 ### Multi-series Gauge
 
-![](<../.gitbook/assets/image (43) (1).png>)
+![](<../.gitbook/assets/image (43) (1) (1).png>)
 
 ### Gross Deviation Chart
 
@@ -52,13 +52,13 @@ See [status.md](status.md "mention")
 
 ### Grid
 
-![](<../.gitbook/assets/image (38).png>)
+![](<../.gitbook/assets/image (38) (1).png>)
 
 See [grid-v2](grid-v2/ "mention")
 
 ### Details Tile
 
-![](<../.gitbook/assets/image (40).png>)
+![](<../.gitbook/assets/image (40) (1).png>)
 
 
 
@@ -74,4 +74,4 @@ See [grid-v2](grid-v2/ "mention")
 
 ### Clock
 
-![](<../.gitbook/assets/image (44).png>)
+![](<../.gitbook/assets/image (44) (1).png>)
