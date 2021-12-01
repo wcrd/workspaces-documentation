@@ -137,7 +137,9 @@ After selection a resolution (as per above), to set the workspace as **Scale to 
 
     If you select an aspect ratio you will see a blue line drawn horizontally on the workspace canvas. This shows what area will always be scaled to fit within the given screen size
 
-![16:9 canvas at 1920p size](<../../.gitbook/assets/image (38).png>)
+    ![](<../../.gitbook/assets/image (42).png>)
+
+    ![](<../../.gitbook/assets/image (50).png>)
 
 
 

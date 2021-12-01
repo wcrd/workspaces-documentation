@@ -18,7 +18,7 @@
 
 ### Pie
 
-![](<../.gitbook/assets/image (42) (1).png>)
+![](<../.gitbook/assets/image (42) (1) (1).png>)
 
 ### Donut
 
