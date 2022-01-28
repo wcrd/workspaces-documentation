@@ -13,7 +13,14 @@
   * [🟡 Get some data](quick-start-guide/configure-the-tile/get-some-data.md)
   * [🟡 Set up the Tile display](quick-start-guide/configure-the-tile/set-up-the-tile-display.md)
 * [Key Takeaways](quick-start-guide/key-takeaways.md)
-* [🟡 Walkthrough: Full basic workspace build](quick-start-guide/walkthrough-full-basic-workspace-build.md)
+* [🟡 Walkthrough: Full basic workspace build](quick-start-guide/walkthrough-full-basic-workspace-build/README.md)
+  * [Setup](quick-start-guide/walkthrough-full-basic-workspace-build/setup.md)
+  * [Add an Image](quick-start-guide/walkthrough-full-basic-workspace-build/add-an-image.md)
+  * [Add Sensor and Status Tiles](quick-start-guide/walkthrough-full-basic-workspace-build/add-sensor-and-status-tiles.md)
+  * [Add a Grid](quick-start-guide/walkthrough-full-basic-workspace-build/add-a-grid.md)
+  * [Add Charts](quick-start-guide/walkthrough-full-basic-workspace-build/add-charts.md)
+  * [Add a Text Box](quick-start-guide/walkthrough-full-basic-workspace-build/add-a-text-box.md)
+  * [Save](quick-start-guide/walkthrough-full-basic-workspace-build/save.md)
 
 ## Detailed Documentation
 

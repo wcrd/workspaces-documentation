@@ -22,7 +22,7 @@ After creating a new workspace in the step before you will be presented with a n
 
 ![Blank workspace template](<../.gitbook/assets/image (31).png>)
 
-In order to finish creating a new workspace we need to select the 'Workspace Template' from the right hand side menu. These templates control have the workspace is divided up for your tiles. We cover these settings in more detail in the Detailed Documentation part of this guide. For now, just select the top template which gives us a blank single area workspace.
+In order to finish creating a new workspace we need to select the 'Workspace Template' from the right hand side menu. These templates control how the workspace is divided up for your tiles. We cover these settings in more detail in the Detailed Documentation part of this guide. For now, just select the top template which gives us a blank single area workspace.
 
 After selecting the 'Workspace Template' the Save button will become visible in the header buttons as pictured below.
 
@@ -34,7 +34,7 @@ In order to complete the workspace creation you must click the Save button pictu
 
 ![New workspace is ready to go!](<../.gitbook/assets/image (28).png>)
 
-## Recap <a href="next-steps" id="next-steps"></a>
+## Recap <a href="#next-steps" id="next-steps"></a>
 
 In summary we have:
 
@@ -42,6 +42,6 @@ In summary we have:
 2. Set the "Workspace Template"
 3. Pressed "Save"
 
-## Next Steps <a href="next-steps" id="next-steps"></a>
+## Next Steps <a href="#next-steps" id="next-steps"></a>
 
 Now that we know have successfully created a new workspace lets start adding some visualisations!
