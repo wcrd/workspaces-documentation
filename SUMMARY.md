@@ -87,3 +87,7 @@
 * [Parameterized Queries](custom-queries/parameterized-queries/README.md)
   * [Parameterized Basic Query](custom-queries/parameterized-queries/parameterized-basic-query.md)
   * [Parameter Types](custom-queries/parameterized-queries/parameter-types.md)
+
+## Other
+
+* [Magic Variables](other/magic-variables.md)
