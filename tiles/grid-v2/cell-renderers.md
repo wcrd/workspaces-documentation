@@ -37,23 +37,7 @@ The text box is the default cell renderer. It simply displays the provided value
 
 ### Note on Data Types
 
-Column data types control how the filtering and sorting works for that column in the grid.
-
-![](<../../.gitbook/assets/image (46).png>)
-
-There are three supported datatypes:
-
-1. **String** - provides basic text filtering and alphabetical sorting
-2.  **Number** - provides numeric filtering and sorting
-
-    The number datatype provides an additional formatting binding:\
-    ![](<../../.gitbook/assets/image (51).png>)
-3.  **Datetime** - provides date range filtering and chronological sorting\
-    The datetime datatype provides two additional formatting bindings:\
-    ![](<../../.gitbook/assets/image (34).png>)
-
-    The first binding controls the datetime string format.\
-    The second binding will convert the given datetime into the users local browser time.  This option is useful for representing data in local time vs. local site time.
+See [#data-types](display-bindings.md#data-types "mention").
 
 ### Note on Units
 
