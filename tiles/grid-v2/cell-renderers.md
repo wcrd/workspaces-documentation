@@ -12,6 +12,7 @@ The text box is the default cell renderer. It simply displays the provided value
 
 | Binding              | Description                                                                                                                                                                                                      |
 | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Binding              | Description                                                                                                                                                                                                      |
 | **Column Type**      | Data type of column                                                                                                                                                                                              |
 | **Cell Color**       | Background color of the cell                                                                                                                                                                                     |
 | **Date Time Format** | <p>(Conditional Field) If datatype is datetime, this binding controls how the date is rendered in the grid. <br><br>There is an additional binding that will convert given datetime into browser local time.</p> |
@@ -22,7 +23,7 @@ The text box is the default cell renderer. It simply displays the provided value
 
 Column data types control how the filtering and sorting works for that column in the grid.
 
-![](<../../.gitbook/assets/image (45).png>)
+![](<../../.gitbook/assets/image (46).png>)
 
 There are three supported datatypes:
 
@@ -46,7 +47,7 @@ Units can be added to any Text Box column. Units are not considered when filteri
 
 In the example above the column type is set to Number. This allows the column to sort in ascending order even in the presence of a unit string as shown below.
 
-![](<../../.gitbook/assets/image (44).png>)
+![](<../../.gitbook/assets/image (45).png>)
 
 If the datatype was instead set to string the column would sort alphabetically.
 
@@ -66,9 +67,39 @@ Coming soon.
 
 ## Range Bar
 
+Range bars are similar in setup to Progress Bars. Use range bars to display data on a specified numeric range with upper and lower bounds
+
 ![](<../../.gitbook/assets/image (23).png>)
 
-Coming soon.
+Range Bars transition linearly from a starting color to an ending color, with the value shape reflecting the color of its position along the spectrum.
+
+### Bindings
+
+![](<../../.gitbook/assets/image (44).png>)
+
+| Binding         | Description                                                          |
+| --------------- | -------------------------------------------------------------------- |
+| **Min**         | Starting number for bar                                              |
+| **Max**         | Ending number for bar                                                |
+| **Value**       | <p>Data to display on range bar<br>(the value within the circle)</p> |
+| **Start Color** | Left color                                                           |
+| **End Color**   | Right color                                                          |
+
+![](<../../.gitbook/assets/image (47).png>)
+
+### Automatic Formatting
+
+The Range Bar expects a dynamic cell value of the following format. Parsing this value through a dataset will cause the Grid to automatically render the data as a Range Bar.
+
+```atom
+{
+    min: 0,
+    max: 100,
+    value: 17,
+    start_color: #02ab92,
+    end_color: red
+}
+```
 
 ## Dynamic Text
 
@@ -92,8 +123,9 @@ The Dynamic Text renderer, like the Text Box renderer, does not require any spec
 
 ![](<../../.gitbook/assets/image (11).png>)
 
-| **Column Type**      | Data type of column                                                                                                                                                                                             |
+| Binding              | Description                                                                                                                                                                                                     |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Column Type**      | Data type of column                                                                                                                                                                                             |
 | **Color**            | Color of the pill/icon/text                                                                                                                                                                                     |
 | **Icon**             | (Optional) The Icon to render on the LHS of the pill                                                                                                                                                            |
 | **Date Time Format** | <p>(Conditional Field) If datatype is datetime, this binding controls how the date is rendered in the grid.<br><br>There is an additional binding that will convert given datetime into browser local time.</p> |

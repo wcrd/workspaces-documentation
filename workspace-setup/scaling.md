@@ -1,6 +1,6 @@
 # Scaling
 
-![Scale to fit, scale to workspace, fixed size, dynamic scaling - set your workspace scale preferences](<../.gitbook/assets/image (47) (1) (1).png>)
+![Scale to fit, scale to workspace, fixed size, dynamic scaling - set your workspace scale preferences](<../.gitbook/assets/image (47) (1) (1) (1).png>)
 
 ## Overview
 
@@ -65,7 +65,7 @@ Once completed, if the workspace is displayed on a screen that is too large, the
 
 ![Fixed size workspace shown in window that is much wider. Workspace is centered in the screen, but the workspace has not been scaled to fit.](<../.gitbook/assets/image (36).png>)
 
-![Fixed size workspace shown in window that is not wide enough. Workspace is cut-off, with a horizontal scroll bar appearing at the bottom of the screen. The workspace has not been scaled to fit.](<../.gitbook/assets/image (47) (1).png>)
+![Fixed size workspace shown in window that is not wide enough. Workspace is cut-off, with a horizontal scroll bar appearing at the bottom of the screen. The workspace has not been scaled to fit.](<../.gitbook/assets/image (47) (1) (1).png>)
 
 {% hint style="info" %}
 After selection a resolution (as per above), to set the workspace as **Fixed (no scale)** select the '**fixed**' option from the Scaling Mode drop-down.
@@ -142,7 +142,7 @@ You can change the scaling mode of the workspace at any time - so feel free to e
 
     If you selected 'Fit to Screen' then one final **Aspect Ratio** combo box will appear allowing you to set the exact size of the canvas you want to build you workspace to (i.e. what area will always be shown on screen).
 
-    ![](<../.gitbook/assets/image (47).png>)
+    ![](<../.gitbook/assets/image (47) (1).png>)
 
 
 

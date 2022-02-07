@@ -34,7 +34,7 @@ ADD Centre Aligned
 
 ### Gross Deviation Chart
 
-![](<../.gitbook/assets/image (46) (1).png>)
+![](<../.gitbook/assets/image (46) (1) (1).png>)
 
 ## Data Blocks
 
