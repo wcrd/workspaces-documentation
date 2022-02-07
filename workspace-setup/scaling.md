@@ -61,7 +61,7 @@ This is the most basic of the fixed scale modes. The User simply sets the canvas
 
 Once completed, if the workspace is displayed on a screen that is too large, then the workspace will be centered. If it is displayed on a screen that is too small, it will overflow. This is displayed in the images below - notice that the workspace is always shown at its designed size.
 
-![Fixed size workspace shown in window with same size](<../.gitbook/assets/image (34).png>)
+![Fixed size workspace shown in window with same size](<../.gitbook/assets/image (34) (1).png>)
 
 ![Fixed size workspace shown in window that is much wider. Workspace is centered in the screen, but the workspace has not been scaled to fit.](<../.gitbook/assets/image (36).png>)
 
@@ -87,7 +87,7 @@ The workspace will scale proportionally to fit the entire canvas area within the
 
 We support a variety of canvas sizes and shapes:
 
-![](<../.gitbook/assets/image (43).png>)
+![](<../.gitbook/assets/image (43) (1).png>)
 
 Once the canvas size is set, the workspace will scale to always show that area for the given screen size. The best think about this scaling mode is that is still supports an unlimited vertical canvas; that is you can still build a workspace that is scrollable by the user!
 
@@ -120,7 +120,7 @@ You can change the scaling mode of the workspace at any time - so feel free to e
 
     :: or select a canvas width for [Fixed Scaling](scaling.md#fixed-scaling)
 
-    ![](<../.gitbook/assets/image (40).png>)
+    ![](<../.gitbook/assets/image (40) (1).png>)
 
 
 3.  If you selected '**auto**' in the previous step then you are all done.
@@ -157,7 +157,7 @@ You can change the scaling mode of the workspace at any time - so feel free to e
 
     ![](<../.gitbook/assets/image (42).png>)
 
-    ![](<../.gitbook/assets/image (50).png>)
+    ![](<../.gitbook/assets/image (50) (1).png>)
 
 
 

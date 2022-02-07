@@ -24,13 +24,13 @@
 
 ### Gauge
 
-![](<../.gitbook/assets/image (34) (1) (1).png>)
+![](<../.gitbook/assets/image (34) (1) (1) (1).png>)
 
 ADD Centre Aligned
 
 ### Multi-series Gauge
 
-![](<../.gitbook/assets/image (43) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (43) (1) (1) (1) (1).png>)
 
 ### Gross Deviation Chart
 
@@ -40,7 +40,7 @@ ADD Centre Aligned
 
 ### Sensor
 
-![](<../.gitbook/assets/image (39) (1).png>)
+![](<../.gitbook/assets/image (39) (1) (1).png>)
 
 See [sensor.md](sensor.md "mention")
 
@@ -58,7 +58,7 @@ See [grid-v2](grid-v2/ "mention")
 
 ### Details Tile
 
-![](<../.gitbook/assets/image (40) (1).png>)
+![](<../.gitbook/assets/image (40) (1) (1).png>)
 
 
 
@@ -66,7 +66,7 @@ See [grid-v2](grid-v2/ "mention")
 
 ### Combo
 
-![](<../.gitbook/assets/image (45).png>)
+![](<../.gitbook/assets/image (45) (1).png>)
 
 ### Multi-select Combo
 
@@ -74,4 +74,4 @@ See [grid-v2](grid-v2/ "mention")
 
 ### Clock
 
-![](<../.gitbook/assets/image (44) (1).png>)
+![](<../.gitbook/assets/image (44) (1) (1).png>)

@@ -4,13 +4,53 @@
 
 ![](<../../.gitbook/assets/image (19).png>)
 
-The text box is the default cell renderer. It simply displays the provided value in the cell. Available bindings:
+The text box is the default cell renderer. It simply displays the provided value in the cell. The Text Box provides options to set the data type, cell color, and value units.
 
-| Binding              | Description                                                                                               |
-| -------------------- | --------------------------------------------------------------------------------------------------------- |
-| **Column Type**      | Data type of column                                                                                       |
-| **Cell Color**       | Background color of the cell                                                                              |
-| **Date Time Format** | (Conditional Field) If datatype is datetime, this binding controls how the date is rendered in the grid.  |
+### Bindings
+
+![](<../../.gitbook/assets/image (39).png>)
+
+| Binding              | Description                                                                                                                                                                                                      |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Column Type**      | Data type of column                                                                                                                                                                                              |
+| **Cell Color**       | Background color of the cell                                                                                                                                                                                     |
+| **Date Time Format** | <p>(Conditional Field) If datatype is datetime, this binding controls how the date is rendered in the grid. <br><br>There is an additional binding that will convert given datetime into browser local time.</p> |
+| **Number Format**    | (Conditional Field) If datatype is number, this binding controls how the number is displayed (leading zeros, decimal places, etc)                                                                                |
+| **Units**            | Units to display for the values in the column. The unit does not affect sorting or filtering.                                                                                                                    |
+
+### Note on Data Types
+
+Column data types control how the filtering and sorting works for that column in the grid.
+
+![](<../../.gitbook/assets/image (45).png>)
+
+There are three supported datatypes:
+
+1. **String** - provides basic text filtering and alphabetical sorting
+2.  **Number** - provides numeric filtering and sorting
+
+    The number datatype provides an additional formatting binding:\
+    ![](<../../.gitbook/assets/image (51).png>)
+3.  **Datetime** - provides date range filtering and chronological sorting\
+    The datetime datatype provides two additional formatting bindings:\
+    ![](<../../.gitbook/assets/image (34).png>)
+
+    The first binding controls the datetime string format.\
+    The second binding will convert the given datetime into the users local browser time.  This option is useful for representing data in local time vs. local site time.
+
+### Note on Units
+
+Units can be added to any Text Box column. Units are not considered when filtering and sorting, allowing standard column sorting behavior.
+
+![](<../../.gitbook/assets/image (43).png>)
+
+In the example above the column type is set to Number. This allows the column to sort in ascending order even in the presence of a unit string as shown below.
+
+![](<../../.gitbook/assets/image (44).png>)
+
+If the datatype was instead set to string the column would sort alphabetically.
+
+![](<../../.gitbook/assets/image (40).png>)
 
 ## Pills
 
@@ -48,18 +88,19 @@ The dynamic text renderer also supports the creation of basic hyperlinks.
 
 ### Bindings
 
-The Dynamic Text renderer, like the Text Box renderer, does not require any special data formats to work. It simply runs off the cell value.
+The Dynamic Text renderer, like the Text Box renderer, does not require any special data formats to work. It simply runs off the cell value. The Dynamic Text has the same bindings as the Text Box, with some additional settings described below:
 
 ![](<../../.gitbook/assets/image (11).png>)
 
-| Binding              | Description                                                                                                                                                                        |
-| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Column Type**      | Data type of column                                                                                                                                                                |
-| **Color**            | Color of the pill/icon/text                                                                                                                                                        |
-| **Icon**             | (Optional) The Icon to render on the LHS of the pill                                                                                                                               |
-| **Date Time Format** | (Conditional Field) If datatype is datetime, this binding controls how the date is rendered in the grid.                                                                           |
-| **Label**            | (Conditional Field) If datatype is URL, this binding control what text is shown in the Pill. This is a manually set static field and cannot be set from the data source currently. |
-| **Open in new tab**  | (Conditional Field) If datatype is URL, this toggle switch controls whether the links open in the current window or in a new tab.                                                  |
+| **Column Type**      | Data type of column                                                                                                                                                                                             |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Color**            | Color of the pill/icon/text                                                                                                                                                                                     |
+| **Icon**             | (Optional) The Icon to render on the LHS of the pill                                                                                                                                                            |
+| **Date Time Format** | <p>(Conditional Field) If datatype is datetime, this binding controls how the date is rendered in the grid.<br><br>There is an additional binding that will convert given datetime into browser local time.</p> |
+| **Number Format**    | (Conditional Field) If datatype is number, this binding controls how the number is displayed (leading zeros, decimal places, etc)                                                                               |
+| **Units**            | Units to display for the values in the column. The unit does not affect sorting or filtering.                                                                                                                   |
+| **Label**            | (Conditional Field) If datatype is URL, this binding control what text is shown in the Pill. This is a manually set static field and cannot be set from the data source currently.                              |
+| **Open in new tab**  | (Conditional Field) If datatype is URL, this toggle switch controls whether the links open in the current window or in a new tab.                                                                               |
 
 ### Note on using Icons
 
