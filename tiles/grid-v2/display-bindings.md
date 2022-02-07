@@ -9,6 +9,20 @@ Data types control how the cell values are displayed in the grid and how the col
 * datetime
 * URL (Dynamic Text renderer only)
 
+![](<../../.gitbook/assets/image (46).png>)
+
+1. **String** - provides basic text filtering and alphabetical sorting
+2.  **Number** - provides numeric filtering and sorting
+
+    The number datatype provides an additional formatting binding:\
+    ![](<../../.gitbook/assets/image (51).png>)
+3.  **Datetime** - provides date range filtering and chronological sorting\
+    The datetime datatype provides two additional formatting bindings:\
+    ![](<../../.gitbook/assets/image (34).png>)
+
+    The first binding controls the datetime string format.\
+    The second binding will convert the given datetime into the users local browser time.  This option is useful for representing data in local time vs. local site time.
+
 ## Cell rendering
 
 Grid2 currently supports the following cell renderers:
