@@ -35,6 +35,8 @@ The text box is the default cell renderer. It simply displays the provided value
 | **Number Format**    | (Conditional Field) If datatype is number, this binding controls how the number is displayed (leading zeros, decimal places, etc)                                                                                |
 | **Units**            | Units to display for the values in the column. The unit does not affect sorting or filtering.                                                                                                                    |
 
+See [#conditional-formatting](display-bindings.md#conditional-formatting "mention") for details on dynamically setting colors.
+
 ### Note on Data Types
 
 See [#data-types](display-bindings.md#data-types "mention").
@@ -133,6 +135,8 @@ The Dynamic Text renderer, like the Text Box renderer, does not require any spec
 | **Units**            | Units to display for the values in the column. The unit does not affect sorting or filtering.                                                                                                                   |
 | **Label**            | (Conditional Field) If datatype is URL, this binding control what text is shown in the Pill. This is a manually set static field and cannot be set from the data source currently.                              |
 | **Open in new tab**  | (Conditional Field) If datatype is URL, this toggle switch controls whether the links open in the current window or in a new tab.                                                                               |
+
+See [#conditional-formatting](display-bindings.md#conditional-formatting "mention") for details on dynamically setting colors.
 
 ### Note on using Icons
 

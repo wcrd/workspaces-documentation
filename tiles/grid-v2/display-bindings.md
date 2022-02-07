@@ -68,7 +68,7 @@ Based on the figure presented above the example formula would resolve to:  10.88
 
 ## Conditional formatting
 
-Conditional formatting can be set by using the **Cell Color** binding in the Text Box cell renderer settings. The Data, Row, and Cell data objects can be used to aid in conditionally setting the cell color.
+Conditional formatting can be set by using the **Cell Color** binding in the Text Box or Dynamic Text cell renderer settings. The Data, Row, and Cell data objects can be used to aid in conditionally setting the cell color.
 
 The **Row** data object behavior is documented above and can be used in the exact same way for cell coloring based on other columns in the row of the current cell.
 
