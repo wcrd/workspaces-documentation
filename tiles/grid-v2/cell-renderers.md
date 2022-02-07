@@ -1,5 +1,21 @@
 # Cell Renderers
 
+## Accessing Row/Cell data dynamically
+
+Cell renders can accept manually configured dynamic values for their bindings.
+
+Each Cell render has access to different levels of raw grid data.
+
+All renders except Text Box and Dynamic Text only have access to the current Cell level data.
+
+Text Box and Dynamic Text have access to current Row level data.
+
+{% hint style="info" %}
+All cell renderers access the data within their scope using the **Row** keyword.\
+\
+This will be updated in a future version of workspaces.
+{% endhint %}
+
 ## Text Box
 
 ![](<../../.gitbook/assets/image (19).png>)
