@@ -24,7 +24,7 @@ The text box is the default cell renderer. It simply displays the provided value
 
 ### Bindings
 
-![](<../../.gitbook/assets/image (39).png>)
+![](<../../.gitbook/assets/image (39) (1).png>)
 
 | Binding              | Description                                                                                                                                                                                                      |
 | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

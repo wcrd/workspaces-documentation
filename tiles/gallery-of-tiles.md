@@ -8,7 +8,7 @@
 
 ### Column
 
-![](<../.gitbook/assets/image (41) (1).png>)
+![](<../.gitbook/assets/image (41) (1) (1).png>)
 
 ### Bar
 
@@ -18,7 +18,7 @@
 
 ### Pie
 
-![](<../.gitbook/assets/image (42) (1) (1).png>)
+![](<../.gitbook/assets/image (42) (1) (1) (1).png>)
 
 ### Donut
 
@@ -40,7 +40,7 @@ ADD Centre Aligned
 
 ### Sensor
 
-![](<../.gitbook/assets/image (39) (1) (1).png>)
+![](<../.gitbook/assets/image (39) (1) (1) (1).png>)
 
 See [sensor.md](sensor.md "mention")
 

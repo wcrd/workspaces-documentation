@@ -4,6 +4,10 @@
 
 ## Overview
 
+{% hint style="info" %}
+Scaling options are for 'Screen' style workspaces only.
+{% endhint %}
+
 Workspaces offers a number of scaling modes to suit any use case and screen. The core scaling modes are:
 
 | Mode                              | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
@@ -111,7 +115,7 @@ You can change the scaling mode of the workspace at any time - so feel free to e
 
 1.  Access the Workspace setup bindings panel
 
-    ![](<../.gitbook/assets/image (41).png>)
+    ![](<../.gitbook/assets/image (41) (1).png>)
 
 
 2.  In the 'resolution' binding set:
@@ -155,7 +159,7 @@ You can change the scaling mode of the workspace at any time - so feel free to e
 
     If you select an aspect ratio you will see a blue line drawn horizontally on the workspace canvas. This shows what area will always be scaled to fit within the given screen size
 
-    ![](<../.gitbook/assets/image (42).png>)
+    ![](<../.gitbook/assets/image (42) (1).png>)
 
     ![](<../.gitbook/assets/image (50) (1).png>)
 

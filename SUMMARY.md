@@ -51,6 +51,7 @@
 
 ## Workspace Setup
 
+* [Workspace Type](workspace-setup/workspace-type.md)
 * [Scaling](workspace-setup/scaling.md)
 
 ## Tiles
