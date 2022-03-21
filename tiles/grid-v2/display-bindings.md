@@ -15,7 +15,7 @@ Data types control how the cell values are displayed in the grid and how the col
 2.  **Number** - provides numeric filtering and sorting
 
     The number datatype provides an additional formatting binding:\
-    ![](<../../.gitbook/assets/image (51).png>)
+    ![](<../../.gitbook/assets/image (51) (1).png>)
 3.  **Datetime** - provides date range filtering and chronological sorting\
     The datetime datatype provides two additional formatting bindings:\
     ![](<../../.gitbook/assets/image (34).png>)

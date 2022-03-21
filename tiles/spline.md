@@ -1,6 +1,6 @@
 # Spline
 
-![](<../.gitbook/assets/image (35).png>)
+![](<../.gitbook/assets/image (35) (1).png>)
 
 ## Data Bindings
 

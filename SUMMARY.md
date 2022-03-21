@@ -92,3 +92,4 @@
 ## Other
 
 * [Magic Variables](other/magic-variables.md)
+* [DateTime formats](other/datetime-formats.md)

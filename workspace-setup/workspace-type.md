@@ -38,9 +38,10 @@ The workspace report size can be chosen in the Workspace Settings binding panel 
 
 The workspace canvas will show the allowable margins for the given size, and will automatically grow vertically to allow for multiple pages.
 
-![Report Style worksapce](<../.gitbook/assets/image (42).png>)
+![Report Style workspace](<../.gitbook/assets/image (42).png>)
 
 #### Exporting
 
 To save the report to a PDF (or print), use the 'Download' option in the workspace header.
 
+![](<../.gitbook/assets/image (38).png>)

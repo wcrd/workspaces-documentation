@@ -4,7 +4,7 @@
 
 ### Spline
 
-![](<../.gitbook/assets/image (35).png>)
+![](<../.gitbook/assets/image (35) (1).png>)
 
 ### Column
 
@@ -52,7 +52,7 @@ See [status.md](status.md "mention")
 
 ### Grid
 
-![](<../.gitbook/assets/image (38) (1).png>)
+![](<../.gitbook/assets/image (38) (1) (1).png>)
 
 See [grid-v2](grid-v2/ "mention")
 
