@@ -36,4 +36,4 @@ We support a wide array of format options in the datetime format bindings fields
 | `A`    | AM PM            |                                       |
 | `a`    | am pm            |                                       |
 
-\
+_Source_: [https://day.js.org/docs/en/display/format](https://day.js.org/docs/en/display/format)
