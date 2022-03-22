@@ -10,6 +10,10 @@
 
 ![](<../.gitbook/assets/image (41) (1) (1).png>)
 
+#### Clustered Column
+
+![](<../.gitbook/assets/image (46).png>)
+
 ### Bar
 
 ### Stacked Column
@@ -34,7 +38,7 @@ ADD Centre Aligned
 
 ### Gross Deviation Chart
 
-![](<../.gitbook/assets/image (46) (1) (1).png>)
+![](<../.gitbook/assets/image (46) (1) (1) (1).png>)
 
 ## Data Blocks
 

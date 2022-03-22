@@ -9,7 +9,7 @@ Data types control how the cell values are displayed in the grid and how the col
 * datetime
 * URL (Dynamic Text renderer only)
 
-![](<../../.gitbook/assets/image (46).png>)
+![](<../../.gitbook/assets/image (46) (1).png>)
 
 1. **String** - provides basic text filtering and alphabetical sorting
 2.  **Number** - provides numeric filtering and sorting
