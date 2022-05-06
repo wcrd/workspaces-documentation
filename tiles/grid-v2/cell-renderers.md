@@ -61,11 +61,43 @@ If the datatype was instead set to string the column would sort alphabetically.
 
 Coming soon.
 
+### Automatic Formatting
+
+The Pills renderer expects a dynamic cell value of the following format. Parsing this value through a dataset will cause the Grid to automatically render the data as a Pills collection.
+
+```atom
+[
+  {
+     label: <value>,
+     count: <value>,       //optional key
+     color: <color value>  //optional key
+  },
+  {
+     label: <value>,
+     count: <value>,       //optional key
+     color: <color value>  //optional key
+  }
+]
+```
+
 ## Progress Bar
 
 ![](<../../.gitbook/assets/image (18).png>)
 
 Coming soon.
+
+### Automatic Formatting
+
+The Progress Bar expects a dynamic cell value of the following format. Parsing this value through a dataset will cause the Grid to automatically render the data as a Progress Bar.
+
+```atom
+{
+  v1: <value>,
+  v2: <value>,
+  color1: <color value>, //optional key
+  color2: <color value>  //optional key
+}
+```
 
 ## Range Bar
 
@@ -91,15 +123,15 @@ Range Bars transition linearly from a starting color to an ending color, with th
 
 ### Automatic Formatting
 
-The Range Bar expects a dynamic cell value of the following format. Parsing this value through a dataset will cause the Grid to automatically render the data as a Range Bar.
+The Range Bar expects a cell value of the following format. Parsing this value through a dataset will cause the Grid to automatically render the data as a Range Bar.
 
 ```atom
 {
-    min: 0,
-    max: 100,
-    value: 17,
-    start_color: #02ab92,
-    end_color: red
+  min: <value>,
+  max: <value>,
+  value: <value>,
+  color1: <color value>, //optional key
+  color2: <color value>  //optional key
 }
 ```
 
@@ -137,6 +169,20 @@ The Dynamic Text renderer, like the Text Box renderer, does not require any spec
 | **Open in new tab**  | (Conditional Field) If datatype is URL, this toggle switch controls whether the links open in the current window or in a new tab.                                                                               |
 
 See [#conditional-formatting](display-bindings.md#conditional-formatting "mention") for details on dynamically setting colors.
+
+
+
+### Automatic Formatting
+
+The Range Bar expects a dynamic cell value of the following format. Parsing this value through a dataset will cause the Grid to automatically render the data as a Range Bar.
+
+```atom
+{
+  value: <value>,
+  units: <value>,
+  color: <color value>, //optional key
+}
+```
 
 ### Note on using Icons
 
