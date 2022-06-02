@@ -24,7 +24,7 @@ The text box is the default cell renderer. It simply displays the provided value
 
 ### Bindings
 
-![](<../../.gitbook/assets/image (39) (1).png>)
+![](<../../.gitbook/assets/image (39) (1) (1).png>)
 
 | Binding              | Description                                                                                                                                                                                                      |
 | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -186,7 +186,7 @@ The Range Bar expects a dynamic cell value of the following format. Parsing this
 
 ### Note on using Icons
 
-Current icon support is still basic. We currently have access to the default set of icons from [Font Awesome](https://fontawesome.com). To use an icon, find the icon(s) of interest from Font Awesome, copy the icon name, and reference in the _**icon**_ binding as `fas:icon-name`. E.g.: the icon pictured below would be referenced as `fas:address-book`. &#x20;
+Current icon support is still basic. We currently have access to the default set of icons from [Font Awesome](https://fontawesome.com/). To use an icon, find the icon(s) of interest from Font Awesome, copy the icon name, and reference in the _**icon**_ binding as `fas:icon-name`. E.g.: the icon pictured below would be referenced as `fas:address-book`. &#x20;
 
 ![Icon from font-awesome](<../../.gitbook/assets/image (1).png>)
 

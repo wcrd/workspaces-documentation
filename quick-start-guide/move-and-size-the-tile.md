@@ -6,7 +6,7 @@
 
 To move the tile simply select the tile, then click on the 'tile name' in the blue header as shown below and drag around the canvas.
 
-![](<../.gitbook/assets/image (39) (1) (1).png>)
+![](<../.gitbook/assets/image (39) (1) (1) (1).png>)
 
 ### Resize
 

@@ -161,7 +161,7 @@ You can change the scaling mode of the workspace at any time - so feel free to e
 
     ![](<../.gitbook/assets/image (42) (1).png>)
 
-    ![](<../.gitbook/assets/image (50) (1).png>)
+    ![](<../.gitbook/assets/image (50) (1) (1).png>)
 
 
 

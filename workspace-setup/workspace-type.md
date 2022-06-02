@@ -34,7 +34,7 @@ Currently two sizes are supported:
 
 The workspace report size can be chosen in the Workspace Settings binding panel using the 'Resolution' binding once a 'Report' workspace style has been selected.
 
-![](<../.gitbook/assets/image (39).png>)
+![](<../.gitbook/assets/image (39) (1).png>)
 
 The workspace canvas will show the allowable margins for the given size, and will automatically grow vertically to allow for multiple pages.
 
