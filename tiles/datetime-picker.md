@@ -42,7 +42,7 @@ The Datetime picker has special methods available on its data object.
 
 #### DateTime formatting
 
-The `DateTimeRange.selectedRange` elements have a special method that allows the formatting of the `start` and `end` fields.
+The `DateTimeRange.selectedRange` elements have a special method that return formatted versions of the `start` and `end` fields.
 
 The function accepts a datetime formatter string as input. See [here ](datetime-picker.md#undefined)for datetime formatting guidance.
 
