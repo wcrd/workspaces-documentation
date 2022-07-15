@@ -78,4 +78,4 @@ See [grid-v2](grid-v2/ "mention")
 
 ### Clock
 
-![](<../.gitbook/assets/image (44) (1) (1).png>)
+![](<../.gitbook/assets/image (44) (1) (1) (1).png>)

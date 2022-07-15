@@ -68,7 +68,7 @@
   * [Display Bindings](tiles/grid-v2/display-bindings.md)
   * [Cell Renderers](tiles/grid-v2/cell-renderers.md)
   * [Tile Data Object](tiles/grid-v2/tile-data-object.md)
-* [🟡 Datetime Picker](tiles/datetime-picker.md)
+* [Datetime Picker](tiles/datetime-picker.md)
 * [Template](tiles/template.md)
 
 ## Query Functions

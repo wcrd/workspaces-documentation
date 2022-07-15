@@ -109,7 +109,7 @@ Range Bars transition linearly from a starting color to an ending color, with th
 
 ### Bindings
 
-![](<../../.gitbook/assets/image (44).png>)
+![](<../../.gitbook/assets/image (44) (1).png>)
 
 | Binding         | Description                                                          |
 | --------------- | -------------------------------------------------------------------- |
